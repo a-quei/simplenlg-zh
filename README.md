@@ -1,2 +1,2 @@
-# simplenlg-zh
-SimpleNLG-ZH(ong)
+# SimpleNLG-ZH
+SimpleNLG-ZH(ongwen)
