@@ -1,0 +1,87 @@
+<lexicon>
+<word>
+  <base>男人</base>
+  <category>noun</category>
+  <id>Z0000001</id>
+</word>
+<word>
+  <base>狗</base>
+  <category>noun</category>
+  <id>Z0000002</id>
+</word>
+<word>
+  <base>学生</base>
+  <category>noun</category>
+  <id>Z0000003</id>
+</word>
+<word>
+  <base>好色</base>
+  <category>adjective</category>
+  <id>Z0000004</id>
+</word>
+<word>
+  <base>美丽</base>
+  <category>adjective</category>
+  <id>Z0000005</id>
+</word>
+<word>
+  <base>可爱</base>
+  <category>adjective</category>
+  <id>Z0000006</id>
+</word>
+<word>
+  <base>教育</base>
+  <category>noun</category>
+  <id>Z0000007</id>
+</word>
+<word>
+  <base>女人</base>
+  <category>noun</category>
+  <id>Z0000008</id>
+</word>
+<word>
+  <base>窗帘</base>
+  <category>noun</category>
+  <id>Z0000009</id>
+</word>
+<word>
+  <base>里面</base>
+  <category>noun</category>
+  <id>Z0000010</id>
+  <locative/>
+</word>
+<word>
+  <base>里</base>
+  <category>noun</category>
+  <id>Z0000011</id>
+  <locative/>
+</word>
+<word>
+  <base>后面</base>
+  <category>noun</category>
+  <id>Z0000012</id>
+  <locative/>
+</word>
+<word>
+  <base>愤怒</base>
+  <category>adjective</category>
+  <id>Z0000013</id>
+</word>
+<word>
+  <base>椅子</base>
+  <category>noun</category>
+  <id>Z0000014</id>
+  <locative/>
+</word>
+<word>
+  <base>人</base>
+  <category>noun</category>
+  <id>Z0000015</id>
+</word>
+<word>
+  <base>男</base>
+  <category>adjective</category>
+  <id>Z0000016</id>
+  <nonpredicate/>
+</word>
+</lexicon>

@@ -1,0 +1,50 @@
+<lexicon>
+<word>
+  <base>绿色</base>
+  <category>adjective</category>
+  <id>Z0000000</id>
+  <colour/>
+</word>
+<word>
+  <base>蓝色</base>
+  <category>adjective</category>
+  <id>Z0000001</id>
+  <colour/>
+</word>
+<word>
+  <base>长</base>
+  <category>adjective</category>
+  <id>Z0000002</id>
+</word>
+<word>
+  <base>桌子</base>
+  <category>noun</category>
+  <id>Z0000003</id>
+</word>
+<word>
+  <base>椅子</base>
+  <category>noun</category>
+  <id>Z0000004</id>
+</word>
+<word>
+  <base>老</base>
+  <category>adjective</category>
+  <id>Z0000005</id>
+  <classifying/>
+</word>
+<word>
+  <base>戴眼镜</base>
+  <category>adjective</category>
+  <id>Z0000006</id>
+</word>
+<word>
+  <base>电风扇</base>
+  <category>noun</category>
+  <id>Z0000007</id>
+</word>
+<word>
+  <base>朝前</base>
+  <category>adjective</category>
+  <id>Z0000008</id>
+</word>
+</lexicon>
